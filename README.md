@@ -1,2 +1,2 @@
 #!bin/bash
-Alx system engineer devops \n
+echo "Alx system engineer devops" \n
