@@ -1,0 +1,2 @@
+#!/bin/bsh
+mv [A-Z]* /tmp/u
