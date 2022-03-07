@@ -1,3 +1,5 @@
 0.Hello world- Write a script that prints “Hello, World”, followed by a new line to the standard output.
 1.Confused smiley- Write a script that displays a confused smiley "(Ôo)'.
 2.Lets display a file- Display the content of the /etc/passwd file.
+3.Display content of two files- Display the content of /etc/passwd and /etc/hosts
+4.Display last 10 lines of a file- Display the last 10 lines of /etc/passwd
